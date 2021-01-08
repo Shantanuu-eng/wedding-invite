@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*------------------------------------------------------------------
     IMPORT FONTS
 -------------------------------------------------------------------*/
@@ -763,8 +777,9 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box{
-	background: #292f35;
-	padding: 20px 0;
+	align-content: center;
+	background: #ffffff;
+	text-align: center;
 }
 
 .footer-box .footer-company-name{
@@ -774,24 +789,12 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a{
-	color: #dd666c;
+	background-color: #ffffff;
+	color: #ffffff;
 }
 .footer-box .footer-company-name a:hover{
-	color: #63c7bd;
+	color: #ffffff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
